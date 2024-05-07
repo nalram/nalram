@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# (.NET Web Applications)</b>
+- <b>C# (ASP.NET Web Applications)</b>
   - [Time Sheet Application](https://github.com/nalram/TimeSheetApp.git)
   
 <h2> 🤳 Connect with me:</h2>
