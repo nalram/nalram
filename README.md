@@ -7,4 +7,9 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Nalini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](www.linkedin.com/in/nalinirajaram)
+[<img align="left" alt="Nalini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] https://linkedin.com/in/nalinirajaram
+[Time Sheet Application](https://github.com/nalram/TimeSheetApp.git)
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
