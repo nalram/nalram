@@ -5,7 +5,8 @@
 - <b>C# (ASP.NET Web Applications)</b>
   - [Time Sheet Application](https://github.com/nalram/TimeSheetApp.git)
 - <b>Python-based console application</b>
-  - [Order Information System](https://github.com/nalram/TimeSheetApp.git)
+  - [Order Information System](https://github.com/nalram/OrderInfoSystem.git)
+
    
   <h2> 🤳 Connect with me:</h2>
 
